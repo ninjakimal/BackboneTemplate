@@ -5,6 +5,10 @@ This is a basic template to help you get started and build your applications on 
 There are some templates given as examples here to help you get started, which you can modify (Refer to Customizing section).
 Underscore templating has been used in the project which can be easily changed to Underscore or Jade
 
+## Demo
+
+Demo of this project can be found on : https://backbonetemplate.firebaseapp.com/
+
 ## Getting Started
 
 To use this template, choose one of the following options to get started:
